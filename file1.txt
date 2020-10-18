@@ -8,3 +8,4 @@ and another
 //here as well
 
 //degisiklik 1 2 3
+automatic closing issue this fixes
